@@ -1,4 +1,4 @@
-# Analyse-sensorielle-d-un-panel-de-chocolats-bas-e-sur-la-m-thode-ACP-de-Python
+# Analyse sensorielle d'un panel de chocolats basé sur la méthode ACP avec Python
 
 Une entreprise de chocolats souhaite savoir comment sont perçus différents chocolats qu'elle a mis au point en vue de leur mise sur le marché. L'objectif est d'avoir un aperçu de la perception potentielle qu'aura le grand public de ces chocolats : sont-ils trop amers ? Trop laiteux ? Pas assez sucrés ?
 
